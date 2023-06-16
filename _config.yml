@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiangqi Zhu 朱湘绮"
+title                    : "Name"
 title_separator          : "-"
-name                     : &name "Xiangqi Zhu"
+name                     : &name "Name"
 description              : &description ""
 url                      : https://xzhu628.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
