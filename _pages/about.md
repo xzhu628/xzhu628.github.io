@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+' title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bio
+Assistant Professor 
+School of Electrical Engineering and Computer Science 
+Colllege of Engineering 
+Oregon State University 
