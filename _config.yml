@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiangqi Zhu"
+title                    : "Xiangqi Zhu 朱湘绮"
 title_separator          : "-"
 name                     : &name "Name"
 description              : &description ""
@@ -83,7 +83,7 @@ author:
   name             : 
   avatar           : "BioPhoto5.png"
   bio              : 
-  location         : School of Electrical Engineering and Computer Science
+  location         : School of EECS
   employer         : Oregon State University
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H5i5hBkAAAAJ&hl=en&oi=ao"
