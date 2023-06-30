@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 Assistant Professor 
+<br>
 School of Electrical Engineering and Computer Science 
+<br>
 Colllege of Engineering 
+<br>
 Oregon State University 
