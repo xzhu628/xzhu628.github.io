@@ -2,6 +2,6 @@
 layout: archive
 title: "Group"
 permalink: /Group/
-author_profile: true
+author_profile: false
 ---
 
