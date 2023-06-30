@@ -15,3 +15,5 @@ School of Electrical Engineering and Computer Science
 Colllege of Engineering 
 <br>
 Oregon State University 
+<br> 
+Contact: xiangqi.zhu@oregonstate.edu
