@@ -1,6 +1,6 @@
 ---
 permalink: /
-! title: "Bio"
+title: "Xiangqi Zhu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
