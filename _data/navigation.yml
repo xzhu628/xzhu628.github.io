@@ -1,15 +1,17 @@
 # main links links
 main:
-  - title: "Group"
-    url: /Group/
 
-  - title: "Talks"
-    url: /talks/    
+
+  - title: "Bio"
+    url: /Bio/
+    
+  - title: "Research"
+    url: /Research/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
+
+  - title: "Group"
+    url: /Group/
     
 
