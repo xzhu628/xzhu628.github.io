@@ -17,6 +17,13 @@ Colllege of Engineering
 Oregon State University 
 <br> 
 <br> 
+Joint Appointment 
+<br>
+Power System Engineering Center 
+<br>
+National Renewable Energy Laboratory
+<br> 
+<br> 
 Contact: xiangqi.zhu@oregonstate.edu
 <br> 
 <br> 
