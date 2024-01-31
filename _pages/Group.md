@@ -5,7 +5,7 @@ permalink: /Group/
 author_profile: false
 ---
 
-title: "Group Members"
+
 Keyang Xuan, Graduate Intern
 MCS student student in University of Illinois, Urbana-Champaign (UIUC)
 
