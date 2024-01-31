@@ -1,6 +1,5 @@
 ---
 layout: archive
-
 permalink: /Group/
 author_profile: false
 ---
