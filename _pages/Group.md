@@ -16,6 +16,16 @@ Roshan was an undergraduate intern at National Renewable Energy Laboratory and i
 Keyang is a graduate intern at National Renewable Energy Laboratory. He is currently a MCS student student in University of Illinois, Urbana-Champaign (UIUC). Keyang is working with us on grid edge resource flexibility prediction with social impact integrated. 
 <br>
 <br>
+3. Ruiqi Li 
+ <br>
+Ruiqi is an undergraduate student at Oregon State University. She is working with us on grid edge load consumption prediction. 
+<br>
+<br>
+4. Wenjia Xia
+ <br>
+Wenjia is going to join us as a PhD student in Sep 2024. She received her master and bachelor degrees from Dalian Maritime University in China. 
+<br>
+<br>
 
 
 **Openings:**
