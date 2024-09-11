@@ -17,7 +17,9 @@ Colllege of Engineering
 Oregon State University 
 <br> 
 Contact: xiangqi.zhu@oregonstate.edu
+<br> 
 Work phone: 541-737-5733
+<br> 
 Office: KEC 3095
 <br> 
 <br> 
