@@ -13,7 +13,7 @@ Roshan was an undergraduate intern at National Renewable Energy Laboratory and i
 <br>
 2. Keyang Xuan
  <br>
-Keyang is a graduate intern at National Renewable Energy Laboratory. He is currently a MCS student student in University of Illinois, Urbana-Champaign (UIUC). Keyang is working with us on grid edge resource flexibility prediction with social impact integrated. 
+Keyang is a graduate intern at National Renewable Energy Laboratory. He is currently a MSc student student in University of Illinois, Urbana-Champaign (UIUC). Keyang is working with us on grid edge resource flexibility prediction with social impact integrated. 
 <br>
 <br>
 3. Ruiqi Li 
