@@ -30,4 +30,4 @@ Wenjia is going to join us as a PhD student in Sep 2024. She received her master
 
 **Openings:**
 
-We are looking for 1-2 self-motivated PhD students with solid background of math and interests in deep learning to join our research group. If you are interested, please email me your CV and apply <a href="https://gradschool.oregonstate.edu/admissions">here</a>. 
+We are looking for 2 self-motivated PhD students in the coming Fall 2025 with solid background of math and interests in deep learning to join our research group. If you are interested, please email me your CV and transcript, and apply <a href="https://gradschool.oregonstate.edu/admissions">here</a>. We also welcome master students and undergradudate students who have passion for clean energy research. If you have interest, please send me an email.
