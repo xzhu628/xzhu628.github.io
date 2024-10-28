@@ -13,7 +13,7 @@ Roshan was an undergraduate intern at National Renewable Energy Laboratory and i
 <br>
 <br>
 2. Keyang Xuan
- <br>
+<br>
 Keyang is a graduate intern at National Renewable Energy Laboratory. He is currently a MSc student student in University of Illinois, Urbana-Champaign (UIUC). Keyang is working with us on grid edge resource flexibility prediction with social impact integrated. 
 <br>
 <br>
@@ -21,27 +21,27 @@ Keyang is a graduate intern at National Renewable Energy Laboratory. He is curre
 
 Students at Oregon State University 
 1. Ruiqi Li 
- <br>
+<br>
 Ruiqi is an undergraduate student at Oregon State University. She is working with us on grid edge load consumption prediction. 
 <br>
 <br>
 2. Wenjia Xia
- <br>
+<br>
 Wenjia has joined us as a PhD student in Sep 2024. She received her master and bachelor degrees from Dalian Maritime University in China. She is working with us on grid edge flexibility estimation and grid resilience. 
 <br>
 <br>
 3. Daniel Lee
- <br>
+<br>
 Daniel is an undergraduate student at Oregon State University. Daniel is working with us on EV adoption estimation. 
 <br>
 <br>
 4. Levi Lao
- <br>
+<br>
 Levi is an undergraduate student at Oregon State University. Levi is working with us on EV grid impact analysis. 
 <br>
 <br>
 5. Guowei Li
- <br>
+<br>
 Guowei is an undergraduate student at Oregon State University. Guowei is working with us on EV management. 
 <br>
 <br>
