@@ -34,9 +34,21 @@ Levi is an undergraduate student at Oregon State University. Levi is working wit
 Guowei is an undergraduate student at Oregon State University. Guowei is working with us on EV management. 
 <br>
 <br>
-5. Lingdong Zhou. Lingdong is going to join us as a PhD student in Sep 2025. Lingdong received his bachelor degree from Xidian University in China and his master degree from the University of California, River Side.
-6. Shrinidhi Nadgouda. Shrinidhi is going to join us as a PhD student in Sep 2025. Shrinidhi received her bachelor degree from University of Virginia.
-7. Penghan Yang. Penghan is going to join us as a PhD student in Sep 2025. Penghan received his bachelor degree from Shandong University and his master degree from Zhejiang University of Science and Technology in China.
+5. Lingdong Zhou.
+<br>
+Lingdong is going to join us as a PhD student in Sep 2025. Lingdong received his bachelor degree from Xidian University in China and his master degree from the University of California, River Side.
+<br>
+<br>
+7. Shrinidhi Nadgouda.
+<br>
+Shrinidhi is going to join us as a PhD student in Sep 2025. Shrinidhi received her bachelor degree from University of Virginia.
+<br>
+<br>
+10. Penghan Yang.
+<br>
+Penghan is going to join us as a PhD student in Sep 2025. Penghan received his bachelor degree from Shandong University and his master degree from Zhejiang University of Science and Technology in China.
+<br>
+<br>
 
 Alumni
 1. Roshan Klein-Seetharaman
