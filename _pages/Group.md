@@ -41,7 +41,7 @@ Lingdong is going to join us as a PhD student in Sep 2025. Lingdong received his
 <br>
 7. Shrinidhi Nadgouda.
 <br>
-Shrinidhi is going to join us as a PhD student in Sep 2025. Shrinidhi received her bachelor degree from University of Virginia.
+Shrinidhi is going to join us as a PhD student in Sep 2025. Shrinidhi received her bachelor degree from the University of Virginia.
 <br>
 <br>
 10. Penghan Yang.
