@@ -37,4 +37,4 @@ Contact: xiangqi.zhu@nrel.gov
 Openings
 ==
 <!-- We are looking for 2 self-motivated PhD students in the coming Fall 2025 with solid background of math and interests in deep learning to join our research group. If you are interested, please email me your CV and transcripts, and apply <a href="https://gradschool.oregonstate.edu/admissions">here</a>.  -->
-We welcome master students and undergradudate students who have passion for clean energy research. If you have interest, please send me an email. 
+We welcome master students and undergradudate students to participate our research projects. If you have interest, please send me an email with CV and transcripts. 
