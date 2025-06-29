@@ -24,27 +24,22 @@ Ruiqi is an undergraduate student at Oregon State University. She is working wit
 Wenjia has joined us as a PhD student in Sep 2024. She received her master and bachelor degrees from Dalian Maritime University in China. She is working with us on grid edge flexibility estimation and grid resilience. 
 <br>
 <br>
-3. Levi Lao
-<br>
-Levi is an undergraduate student at Oregon State University. Levi is working with us on EV grid impact analysis. 
-<br>
-<br>
-4. Guowei Li
+3. Guowei Li
 <br>
 Guowei is an undergraduate student at Oregon State University. Guowei is working with us on EV management. 
 <br>
 <br>
-5. Lingdong Zhou.
+4. Lingdong Zhou.
 <br>
 Lingdong is going to join us as a PhD student in Sep 2025. Lingdong received his bachelor degree from Xidian University in China and his master degree from the University of California, River Side.
 <br>
 <br>
-7. Shrinidhi Nadgouda.
+5. Shrinidhi Nadgouda.
 <br>
 Shrinidhi is going to join us as a PhD student in Sep 2025. Shrinidhi received her bachelor degree from the University of Virginia.
 <br>
 <br>
-10. Penghan Yang.
+6. Penghan Yang.
 <br>
 Penghan is going to join us as a PhD student in Sep 2025. Penghan received his bachelor degree from Shandong University and his master degree from Zhejiang University of Science and Technology in China.
 <br>
@@ -59,6 +54,11 @@ Roshan was an undergraduate intern at National Renewable Energy Laboratory and w
 2. Daniel Lee
 <br>
 Daniel is an undergraduate student at Oregon State University. Daniel worked with us on EV adoption estimation. 
+<br>
+<br>
+3. Levi Lao
+<br>
+Levi is an undergraduate student at Oregon State University. Levi worked with us on EV grid impact analysis. 
 <br>
 <br>
 
