@@ -16,7 +16,7 @@ Keyang is a graduate intern at National Renewable Energy Laboratory. He is curre
 Students at Oregon State University 
 1. Ruiqi Li 
 <br>
-Ruiqi is an undergraduate student at Oregon State University. She is working with us on grid edge load consumption prediction. 
+Ruiqi was previously an undergraduate student at Oregon State University and is now pursuing her undergraduate studies at Texas A&M University. She is working with us on energy affordability. 
 <br>
 <br>
 2. Wenjia Xia
@@ -24,24 +24,19 @@ Ruiqi is an undergraduate student at Oregon State University. She is working wit
 Wenjia has joined us as a PhD student in Sep 2024. She received her master and bachelor degrees from Dalian Maritime University in China. She is working with us on grid edge flexibility estimation and grid resilience. 
 <br>
 <br>
-3. Guowei Li
+3. Lingdong Zhou.
 <br>
-Guowei is an undergraduate student at Oregon State University. Guowei is working with us on EV management. 
-<br>
-<br>
-4. Lingdong Zhou.
-<br>
-Lingdong is going to join us as a PhD student in Sep 2025. Lingdong received his bachelor degree from Xidian University in China and his master degree from the University of California, River Side.
+Lingdong has joined us as a PhD student in Sep 2025. Lingdong received his bachelor degree from Xidian University in China and his master degree from the University of California, River Side.
 <br>
 <br>
-5. Shrinidhi Nadgouda.
+4. Shrinidhi Nadgouda.
 <br>
-Shrinidhi is going to join us as a PhD student in Sep 2025. Shrinidhi received her bachelor degree from the University of Virginia.
+Shrinidhi has joined us as a PhD student in Sep 2025. Shrinidhi received her bachelor degree from the University of Virginia.
 <br>
 <br>
-6. Penghan Yang.
+5. Penghan Yang.
 <br>
-Penghan is going to join us as a PhD student in Sep 2025. Penghan received his bachelor degree from Shandong University and his master degree from Zhejiang University of Science and Technology in China.
+Penghan has joined us as a PhD student in Sep 2025. Penghan received his bachelor degree from Shandong University and his master degree from Zhejiang University of Science and Technology in China.
 <br>
 <br>
 
@@ -59,6 +54,11 @@ Daniel is an undergraduate student at Oregon State University. Daniel worked wit
 3. Levi Lao
 <br>
 Levi is an undergraduate student at Oregon State University. Levi worked with us on EV grid impact analysis. 
+<br>
+<br>
+4. Guowei Li
+<br>
+Guowei is an undergraduate student at Oregon State University. Guowei worked with us on power distribution system simulations. 
 <br>
 <br>
 
