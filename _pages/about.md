@@ -36,5 +36,5 @@ Contact: xiangqi.zhu@nrel.gov
 
 Openings
 ==
-We are seeking two highly motivated PhD students to join our group in Fall 2026. The ideal candidates will have strong interests in applying deep learning techniques to challenges in power and energy systems. If you are interested, please email me your CV and transcript, and apply <a href="https://gradschool.oregonstate.edu/admissions">here</a>. We welcome master students and undergradudate students who have passion for clean energy research. If you have interest, please send me an email.
+We are seeking two highly motivated PhD students to join our group in Fall 2026. The ideal candidates will have strong interests in applying deep learning techniques to challenges in power and energy systems. If you are interested, please email me your CV and transcript, and apply <a href="https://gradschool.oregonstate.edu/admissions">here</a>. 
 We welcome master students and undergradudate students to participate our research projects. If you have interest, please send me an email with CV and transcripts. 
