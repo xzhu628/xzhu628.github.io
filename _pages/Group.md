@@ -113,7 +113,7 @@ Keyang is a graduate intern at National Renewable Energy Laboratory. He is curre
 <br>
 
 
-Alumni
+**Alumni**
 1. Roshan Klein-Seetharaman
 <br>
 Roshan was an undergraduate intern at National Renewable Energy Laboratory and was continously working with us after the internship.  He is currently an undergraduate student in Yale University. Roshan worked with us on utilizing transfer learning to enhance grid edge load forecasting. 
