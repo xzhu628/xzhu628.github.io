@@ -20,9 +20,25 @@ Ruiqi was previously an undergraduate student at Oregon State University and is 
 <br>
 <br>
 
-assets/people/Wenjia.png
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 
-Wenjia has joined us as a PhD student in Sep 2024. Her research focuses on enhancing grid-edge flexibility by developing multimodal data-fusion-based load forecasting models that capture the dynamic behavior of end-use consumption. These methods aim to improve power system resilience by enabling more accurate characterization of demand-side flexibility and response potential. Before joining OSU, she received her Master’s degree from Dalian Maritime University, where her research focused on distributed optimization and control. In her free time, she enjoys hiking, exploring local restaurant spots, and spending time with her cat.
+  <!-- Photo on the left -->
+  <img src="assets/people/Wenjia.png" alt="Wenjia Xia" width="180" style="margin-right: 20px; border-radius: 5px;">
+
+  <!-- Text on the right -->
+  <div>
+    <h3>Wenjia Xia</h3>
+    <p style="margin:0;"><strong>Ph.D. Student in EECS</strong></p>
+    <p style="margin-top:5px;">(Sep 2024–Present)</p>
+    <p style="margin-top:10px;">
+      Wenjia has joined us as a PhD student in Sep 2024. Her research focuses on enhancing grid-edge flexibility by developing multimodal data-fusion-based load forecasting models that capture the dynamic behavior of end-use consumption. These methods aim to improve power system resilience by enabling more accurate characterization of demand-side flexibility and response potential. Before joining OSU, she received her Master’s degree from Dalian Maritime University, where her research focused on distributed optimization and control. In her free time, she enjoys hiking, exploring local restaurant spots, and spending time with her cat.
+    </p>
+  </div>
+
+</div>
+
+
+
 
 3. Lingdong Zhou.
 <br>
