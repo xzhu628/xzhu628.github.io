@@ -73,7 +73,7 @@ author_profile: false
 
 
 <br>
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
 
   <!-- Left column: photo + name/title -->
   <div style="text-align: center; margin-right: 20px;">
