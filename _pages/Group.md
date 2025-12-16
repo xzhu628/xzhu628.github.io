@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Group"
+title: "Next-Generation Unified Energy System Lab (NEXUS)"
 permalink: /Group/
 author_profile: false
 ---
