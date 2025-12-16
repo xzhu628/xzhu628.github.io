@@ -7,35 +7,33 @@ author_profile: false
 
 
 Students at National Renewable Energy Laboratory 
-1. Keyang Xuan
+Keyang Xuan
 <br>
 Keyang is a graduate intern at National Renewable Energy Laboratory. He is currently a MSc student student in University of Illinois, Urbana-Champaign (UIUC). Keyang is working with us on grid edge resource flexibility prediction with social impact integrated. 
 <br>
 <br>
 
 Students at Oregon State University 
-1. Ruiqi Li 
-<br>
-Ruiqi was previously an undergraduate student at Oregon State University and is now pursuing her undergraduate studies at Texas A&M University. She is working with us on energy affordability. 
-<br>
-<br>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 
-  <!-- Photo on the left -->
- <img src="../assets/people/Wenjia.png" alt="Wenjia Xia" width="180" style="margin-right: 20px; border-radius: 5px;">
-
-  <!-- Text on the right -->
-  <div>
-    <h3>Wenjia Xia</h3>
+  <!-- Left column: photo + name/title -->
+  <div style="text-align: center; margin-right: 20px;">
+    <img src="../assets/people/Wenjia.png" alt="Wenjia Xia" width="180" style="border-radius: 5px;">
+    <h3 style="margin:5px 0 0 0;">Wenjia Xia</h3>
     <p style="margin:0;"><strong>Ph.D. Student in EECS</strong></p>
-    <p style="margin-top:5px;">(Sep 2024–Present)</p>
-    <p style="margin-top:10px;">
+    <p style="margin:5px 0 0 0;">(Sep 2024–Present)</p>
+  </div>
+
+  <!-- Right column: description text -->
+  <div style="flex:1;">
+    <p>
       Wenjia has joined us as a PhD student in Sep 2024. Her research focuses on enhancing grid-edge flexibility by developing multimodal data-fusion-based load forecasting models that capture the dynamic behavior of end-use consumption. These methods aim to improve power system resilience by enabling more accurate characterization of demand-side flexibility and response potential. Before joining OSU, she received her Master’s degree from Dalian Maritime University, where her research focused on distributed optimization and control. In her free time, she enjoys hiking, exploring local restaurant spots, and spending time with her cat.
     </p>
   </div>
 
 </div>
+
 
 
 
@@ -53,6 +51,13 @@ Shrinidhi has joined us as a PhD student in Sep 2025. Shrinidhi received her bac
 5. Penghan Yang.
 <br>
 Penghan has joined us as a PhD student in Sep 2025. Penghan received his bachelor degree from Shandong University and his master degree from Zhejiang University of Science and Technology in China.
+<br>
+<br>
+
+Undergraduate students: 
+Ruiqi Li 
+<br>
+Ruiqi was previously an undergraduate student at Oregon State University and is now pursuing her undergraduate studies at Texas A&M University. She is working with us on energy affordability. 
 <br>
 <br>
 
