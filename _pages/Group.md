@@ -18,6 +18,8 @@ Keyang is a graduate intern at National Renewable Energy Laboratory. He is curre
 
 **Students at Oregon State University** 
 <br>
+**Ph.D. Students** 
+<br>
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 
   <!-- Left column: photo + name/title -->
@@ -37,27 +39,77 @@ Keyang is a graduate intern at National Renewable Energy Laboratory. He is curre
 
 </div>
 
+!Lingdong 
 
+<br>
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 
+  <!-- Left column: photo + name/title -->
+  <div style="text-align: center; margin-right: 20px;">
+    <img src="../assets/people/Lingdong.jpg" alt="Lingdong Zhou" width="180" style="border-radius: 5px;">
+    <h3 style="margin:5px 0 0 0;">
+      <a href="[https://www.linkedin.com/in/wenjia-xia-9bbbba350/](https://lingdong.me)" target="_blank">Lindong Zhou</a>
+    </h3>
+  </div>
 
+  <!-- Right column: description text -->
+  <div style="flex:1;">
+    <p>
+      Lingdong has joined us as a PhD student in Sep 2025. He holds a Bachelor's degree from Xidian University and a Master's degree from the University of California, Riverside. With multiple years of professional experience in the field of sustainability, his research interests primarily lie in Artificial Intelligence for Energy, with a current focus on Demand Response. He explores topics such as Load Disaggregation, Risk-aware Bidding, and User Behavior Modeling to develop data-driven decision-making tools for smart grids, thereby facilitating more efficient power market. When he is free, he enjoys soccer, tennis, music, and video games.
+    </p>
+  </div>
 
-3. Lingdong Zhou.
+</div>
+
+!Shrinidhi 
 <br>
-Lingdong has joined us as a PhD student in Sep 2025. Lingdong received his bachelor degree from Xidian University in China and his master degree from the University of California, River Side.
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+
+  <!-- Left column: photo + name/title -->
+  <div style="text-align: center; margin-right: 20px;">
+    <img src="../assets/people/Shrinidhi.jpg" alt="Shrinidhi Nadgouda" width="180" style="border-radius: 5px;">
+    <h3 style="margin:5px 0 0 0;">
+      <a href=" https://www.linkedin.com/in/shrinidhi-n-50865b1a7/" target="_blank">Shrinidhi Nadgouda</a>
+    </h3>
+  </div>
+
+  <!-- Right column: description text -->
+  <div style="flex:1;">
+    <p>
+      Shrinidhi has joined us as a PhD student in Sep 2025. She graduated with a double major in Electrical Engineering and Physics from the University of Virginia in 2025. Her research interests include power distribution system management and control. She has been working on risk-aware reinforcement learning for grid anomaly mitigation.  In her free time, Shrinidhi enjoys playing rugby on Oregon State Womens+ Rugby, doing Indian classical dance, listening to music, and exploring new restaurants and coffeeshops.
+    </p>
+  </div>
+
+</div>
+
+!Penghan
+
 <br>
-<br>
-4. Shrinidhi Nadgouda.
-<br>
-Shrinidhi has joined us as a PhD student in Sep 2025. Shrinidhi received her bachelor degree from the University of Virginia.
-<br>
-<br>
-5. Penghan Yang.
-<br>
-Penghan has joined us as a PhD student in Sep 2025. Penghan received his bachelor degree from Shandong University and his master degree from Zhejiang University of Science and Technology in China.
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+
+  <!-- Left column: photo + name/title -->
+  <div style="text-align: center; margin-right: 20px;">
+    <img src="../assets/people/Penghan.jpg" alt="Penghan Yang" width="180" style="border-radius: 5px;">
+    <!-- <h3 style="margin:5px 0 0 0;">
+      <a href="https://www.linkedin.com/in/wenjia-xia-9bbbba350/" target="_blank">Penghan Yang</a>
+    </h3> -->
+  </div>
+
+  <!-- Right column: description text -->
+  <div style="flex:1;">
+    <p>
+      Penghan has joined us as a PhD student in Sep 2025. He received his bachelor degree from Shandong University and his master degree from Zhejiang University of Science and Technology in China. Penghan is interested in utilizing various artificial intelligence methods for energy-related projects. Currently, he is focusing on developing artificial intelligence agents for energy system operation and applying computer vision techniques to asset monitoring. In his free time, He is enthusiastic about strength training, experimenting with different coffees and brewing methods, and exploring trails in the Pacific Northwest. He is also a loyal supporter of FC Barcelona.
+    </p>
+  </div>
+
+</div>
+
 <br>
 <br>
 
-Undergraduate students: 
+**Undergraduate Students** 
+<br>
+<br>
 Ruiqi Li 
 <br>
 Ruiqi was previously an undergraduate student at Oregon State University and is now pursuing her undergraduate studies at Texas A&M University. She is working with us on energy affordability. 
