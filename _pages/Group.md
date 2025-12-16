@@ -23,7 +23,7 @@ Ruiqi was previously an undergraduate student at Oregon State University and is 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 
   <!-- Photo on the left -->
-  <img src="assets/people/Wenjia.png" alt="Wenjia Xia" width="180" style="margin-right: 20px; border-radius: 5px;">
+  <img src="assets/people/Wenjia.png" alt="Wenjia Xia" width="180" style="margin-right: 20px; border-radius: 5px;"> 
 
   <!-- Text on the right -->
   <div>
