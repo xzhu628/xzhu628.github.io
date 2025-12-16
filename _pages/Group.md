@@ -39,7 +39,7 @@ Keyang is a graduate intern at National Renewable Energy Laboratory. He is curre
 
 </div>
 
-!Lingdong 
+
 
 <br>
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
@@ -61,7 +61,7 @@ Keyang is a graduate intern at National Renewable Energy Laboratory. He is curre
 
 </div>
 
-!Shrinidhi 
+
 <br>
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 
@@ -82,7 +82,6 @@ Keyang is a graduate intern at National Renewable Energy Laboratory. He is curre
 
 </div>
 
-!Penghan
 
 <br>
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
