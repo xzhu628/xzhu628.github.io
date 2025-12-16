@@ -37,7 +37,7 @@ author_profile: false
   <div style="text-align: center; margin-right: 20px;">
     <img src="../assets/people/Lingdong.jpg" alt="Lingdong Zhou" width="180" style="border-radius: 5px;">
     <h3 style="margin:5px 0 0 0;">
-      <a href="[https://www.linkedin.com/in/wenjia-xia-9bbbba350/](https://lingdong.me)" target="_blank">Lindong Zhou</a>
+      <a href="https://lingdong.me" target="_blank">Lindong Zhou</a>
     </h3>
   </div>
 
