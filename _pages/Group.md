@@ -23,7 +23,9 @@ Keyang is a graduate intern at National Renewable Energy Laboratory. He is curre
   <!-- Left column: photo + name/title -->
   <div style="text-align: center; margin-right: 20px;">
     <img src="../assets/people/Wenjia.png" alt="Wenjia Xia" width="180" style="border-radius: 5px;">
-    <h3 style="margin:5px 0 0 0;">Wenjia Xia</h3>
+    <h3 style="margin:5px 0 0 0;">
+      <a href="https://www.linkedin.com/in/wenjia-xia-9bbbba350/" target="_blank">Wenjia Xia</a>
+    </h3>
   </div>
 
   <!-- Right column: description text -->
