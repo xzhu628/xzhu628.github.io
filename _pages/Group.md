@@ -7,6 +7,7 @@ author_profile: false
 
 
 Students at National Renewable Energy Laboratory 
+<br>
 Keyang Xuan
 <br>
 Keyang is a graduate intern at National Renewable Energy Laboratory. He is currently a MSc student student in University of Illinois, Urbana-Champaign (UIUC). Keyang is working with us on grid edge resource flexibility prediction with social impact integrated. 
@@ -14,7 +15,7 @@ Keyang is a graduate intern at National Renewable Energy Laboratory. He is curre
 <br>
 
 Students at Oregon State University 
-
+<br>
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 
   <!-- Left column: photo + name/title -->
