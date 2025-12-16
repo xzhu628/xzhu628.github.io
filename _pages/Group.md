@@ -5,17 +5,6 @@ permalink: /Group/
 author_profile: false
 ---
 
-
-**Students at National Renewable Energy Laboratory**
-<br>
-<br>
-1. Keyang Xuan
-<br>
-<br>
-Keyang is a graduate intern at National Renewable Energy Laboratory. He is currently a MSc student student in University of Illinois, Urbana-Champaign (UIUC). Keyang is working with us on grid edge resource flexibility prediction with social impact integrated. 
-<br>
-<br>
-
 **Students at Oregon State University** 
 <br>
 **Ph.D. Students** 
@@ -89,9 +78,7 @@ Keyang is a graduate intern at National Renewable Energy Laboratory. He is curre
   <!-- Left column: photo + name/title -->
   <div style="text-align: center; margin-right: 20px;">
     <img src="../assets/people/Penghan.jpg" alt="Penghan Yang" width="180" style="border-radius: 5px;">
-    <!-- <h3 style="margin:5px 0 0 0;">
-      <a href="https://www.linkedin.com/in/wenjia-xia-9bbbba350/" target="_blank">Penghan Yang</a>
-    </h3> -->
+    <h3 style="margin:5px 0 0 0;">Penghan Yang</h3>
   </div>
 
   <!-- Right column: description text -->
@@ -114,6 +101,17 @@ Ruiqi Li
 Ruiqi was previously an undergraduate student at Oregon State University and is now pursuing her undergraduate studies at Texas A&M University. She is working with us on energy affordability. 
 <br>
 <br>
+
+**Students at National Renewable Energy Laboratory**
+<br>
+<br>
+1. Keyang Xuan
+<br>
+<br>
+Keyang is a graduate intern at National Renewable Energy Laboratory. He is currently a MSc student student in University of Illinois, Urbana-Champaign (UIUC). Keyang is working with us on grid edge resource flexibility prediction with social impact integrated. 
+<br>
+<br>
+
 
 Alumni
 1. Roshan Klein-Seetharaman
