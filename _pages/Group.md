@@ -19,11 +19,15 @@ Students at Oregon State University
 Ruiqi was previously an undergraduate student at Oregon State University and is now pursuing her undergraduate studies at Texas A&M University. She is working with us on energy affordability. 
 <br>
 <br>
-2. Wenjia Xia
-<br>
-Wenjia has joined us as a PhD student in Sep 2024. She received her master and bachelor degrees from Dalian Maritime University in China. She is working with us on grid edge flexibility estimation and grid resilience. 
-<br>
-<br>
+
+### Wenjia Xia
+
+<img src="assets/people/Wenjia.png" width="180" align="left" style="margin-right:15px;">
+
+Wenjia has joined us as a PhD student in Sep 2024. Her research focuses on enhancing grid-edge flexibility by developing multimodal data-fusion-based load forecasting models that capture the dynamic behavior of end-use consumption. These methods aim to improve power system resilience by enabling more accurate characterization of demand-side flexibility and response potential. Before joining OSU, she received her Master’s degree from Dalian Maritime University, where her research focused on distributed optimization and control. In her free time, she enjoys hiking, exploring local restaurant spots, and spending time with her cat.
+
+<br clear="left"/>
+
 3. Lingdong Zhou.
 <br>
 Lingdong has joined us as a PhD student in Sep 2025. Lingdong received his bachelor degree from Xidian University in China and his master degree from the University of California, River Side.
