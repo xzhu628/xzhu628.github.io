@@ -20,7 +20,8 @@ Ruiqi was previously an undergraduate student at Oregon State University and is 
 <br>
 <br>
 
-[Wenjia Xia](assets/people/Wenjia.png)
+<img src="assets/people/Wenjia.png" width="180" alt="Wenjia Xia">
+
 Wenjia has joined us as a PhD student in Sep 2024. Her research focuses on enhancing grid-edge flexibility by developing multimodal data-fusion-based load forecasting models that capture the dynamic behavior of end-use consumption. These methods aim to improve power system resilience by enabling more accurate characterization of demand-side flexibility and response potential. Before joining OSU, she received her Master’s degree from Dalian Maritime University, where her research focused on distributed optimization and control. In her free time, she enjoys hiking, exploring local restaurant spots, and spending time with her cat.
 
 3. Lingdong Zhou.
